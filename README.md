@@ -1,1 +1,1 @@
-# Next.js Route 공부용 작업물
+# Next.js 파일 기반 라우팅 공부용 작업물
